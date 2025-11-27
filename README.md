@@ -128,5 +128,6 @@ It demonstrates the ability to handle real-world datasets, clean and transform d
 
 ## Author
 
-**Naman Sharma**
-[LinkedIn](https://www.linkedin.com/in/naman-sharma-ds/)
+** Rishi Raj**
+[LinkedIn](https://www.linkedin.com/in/rishi-raj-a269951b1/)
+
